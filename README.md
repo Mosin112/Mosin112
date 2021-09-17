@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, My name is Mohsin
+#### I am and aspiring blockchain developer
+![I am and aspiring blockchain developer]
 
-<!--
-**Mosin112/Mosin112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Javascript / Solidity and C++
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Blockchain development and  Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me hafeez.mohsin@outlook.com
+
+⚡ Fun fact Watch movies or hang out with friends
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
