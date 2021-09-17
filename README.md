@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Mohsin
 #### I am and aspiring blockchain developer
-![I am and aspiring blockchain developer]
 
 🔭 I’m currently working on Javascript / Solidity and C++
 
