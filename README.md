@@ -13,6 +13,7 @@
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+- You can catch me up on my Linkedin at @https://www.linkedin.com/in/mohsin-hafeez/
 
 
 
