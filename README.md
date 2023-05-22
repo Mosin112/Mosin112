@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mohsin
-#### I am and aspiring blockchain developer
+#### I am a passionate Blockchain Developer and Geek evangelising Web3 all the way
 
 🔭 I’m currently working on Javascript / Solidity and C++
 
