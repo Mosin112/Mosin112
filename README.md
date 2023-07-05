@@ -14,4 +14,4 @@ Here's how you can connect with me:
 
 - You can find me on LinkedIn🔭 : https://www.linkedin.com/in/mohsin-hafeez/ 
 - Discord: universalcoder#3202
-WAGMI 🚀
+- WAGMI 🚀
