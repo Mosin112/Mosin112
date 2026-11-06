@@ -81,6 +81,9 @@ How I work with AI:
 
 <p align="left">
   <a href="https://www.anthropic.com/claude" title="Claude"><img src="https://cdn.simpleicons.org/claude" alt="Claude" width="40" height="40" /></a>
+  <a href="https://openai.com" title="OpenAI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/openai.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/openai.png" alt="OpenAI" width="40" height="40" /></picture></a>
+  <a href="https://gemini.google.com" title="Gemini"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/gemini-color.svg" alt="Gemini" width="40" height="40" /></a>
+  <a href="https://z.ai" title="GLM (Zhipu AI)"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/zhipu-color.svg" alt="GLM" width="40" height="40" /></a>
   <a href="https://modelcontextprotocol.io" title="Model Context Protocol"><img src="https://cdn.simpleicons.org/modelcontextprotocol/888888" alt="Model Context Protocol" width="40" height="40" /></a>
   <a href="https://www.figma.com" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /></a>
 </p>
