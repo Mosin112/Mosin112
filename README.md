@@ -56,8 +56,9 @@ How I work with AI:
 - **[origami-js-sdk](https://github.com/open-oracle-origami/origami-js-sdk)**: open-source contributor
 - **IEEE BCCA 2024**: published a paper on digital assets, cryptocurrencies and blockchain
 
-### Side projects
+### Experiments & side projects
 
+- **[axe.](https://www.axepayments.co)**: regulated crypto rails for Pakistan. One API that connects banks and fintechs to licensed crypto providers and local payment rails (RAAST, IBFT) for PKR on- and off-ramps, cross-border stablecoin transfers, smart routing, KYT screening and reconciliation. Partners hold the licences and custody; axe. orchestrates and never holds customer funds. In sandbox.
 - **[Kapray](https://github.com/Mosin112/Kapray-app)**: a mobile app that brings Pakistani women's fashion brands into one feed, with alerts for new drops and sales. Expo, React Native, Supabase, and its own [scraper](https://github.com/Mosin112/kapray-scraper).
 - **[HabitFlow](https://github.com/Mosin112/habitflow)**: an Android habit tracker built with Kotlin, Jetpack Compose, Room and Hilt.
 
