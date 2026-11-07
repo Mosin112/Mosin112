@@ -32,7 +32,7 @@ flowchart TB
 
 - **[PM one-shot harness](https://github.com/Mosin112/pm-harness):** Claude skills that take an idea to a concept doc, behavior tree, clickable prototype and engineering-ready tickets in one pass. [Live demo](https://mosin112.github.io/pm-harness/).
 - **Agentic SDLC:** helped define how product work feeds our engineering harness, with behavior trees and small outcome-based tickets that agents can build from.
-- **Treasury sweep agent** *(publishing soon)*: finds idle cash across bank, exchange and wallet accounts and proposes yield and arbitrage moves. A policy engine enforces limits and people approve in Slack.
+- **Treasury sweep agent**: finds idle cash across bank, exchange and wallet accounts and proposes yield and arbitrage moves. A policy engine enforces limits and people approve in Slack.
 
 I also build agent skills, always-on and multi-agent systems, voice and browser agents, and MCP apps. I work prototype-first, keep context in Git, and keep a human in the loop for anything that moves money.
 
