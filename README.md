@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin</h1>
-<h3 align="center">Product Manager II enabling Agentic Workflows 🤖 | Payments & Stablecoins</h3>
+<h3 align="center">Product Manager (II) enabling Agentic Workflows 🤖 | Payments & Stablecoins</h3>
 
 **Agentic Workflows · AI · Payments, Stablecoins & Core Infrastructure at [Fasset](https://fasset.com)**
 
