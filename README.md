@@ -1,4 +1,5 @@
-# Mohsin Hafeez
+<h1 align="center">Hi 👋, I'm Mohsin</h1>
+<h3 align="center">Product Manager enabling Agentic Workflows 🤖 | Payments & Stablecoins</h3>
 
 **AI-first Product Manager · Payments, Stablecoins & Core Infrastructure at [Fasset](https://fasset.com)**
 
