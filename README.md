@@ -3,7 +3,7 @@
 
 **Product Manager · Agentic Workflows · AI · Payments, Stablecoins & Core Infrastructure at [Fasset](https://fasset.com)**
 
-I build products that move money across borders, and the AI harnesses and agents that help teams ship them faster and run them safely.
+Payments PM by day, agent builder always: I ship cross-border money products and the AI workflows behind them.
 
 <p align="left">
   <a href="https://linkedin.com/in/mohsin-hafeez" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" /></a>
