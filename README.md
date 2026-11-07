@@ -1,6 +1,6 @@
 # Mohsin Hafeez
 
-**AI-first Product Manager · Payments, Stablecoins & Core Infrastructure at [Fasset](https://fasset.com)**
+**Product Manager · Agentic Workflows · AI · Payments, Stablecoins & Core Infrastructure at [Fasset](https://fasset.com)**
 
 I build products that move money, and the AI harnesses and agents that help teams build and run them.
 
